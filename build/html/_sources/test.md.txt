@@ -1,0 +1,11 @@
+Installation Linux
+Nous allons installer Docker sur le host de type CentOS 7
+# Installation avec le package manager
+Mettre à jour CentOS
+
+???   
+    ```
+    sudo yum update -y
+    ```
+
+Ensuite installer les utilitaires yum
